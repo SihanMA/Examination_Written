@@ -1,0 +1,3 @@
+/home/marshan/code/Cpp/Wrriten_examination/0906深信服/2.最大金币/cmake-build-debug/CMakeFiles/2_.dir
+/home/marshan/code/Cpp/Wrriten_examination/0906深信服/2.最大金币/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marshan/code/Cpp/Wrriten_examination/0906深信服/2.最大金币/cmake-build-debug/CMakeFiles/rebuild_cache.dir

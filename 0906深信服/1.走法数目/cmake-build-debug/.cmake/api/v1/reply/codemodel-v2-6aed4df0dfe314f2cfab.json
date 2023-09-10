@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1_-Debug-b64201628755fc639983.json",
+					"name" : "1_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/marshan/code/Cpp/Wrriten_examination/0906\u6df1\u4fe1\u670d/1.\u8d70\u6cd5\u6570\u76ee/cmake-build-debug",
+		"source" : "/home/marshan/code/Cpp/Wrriten_examination/0906\u6df1\u4fe1\u670d/1.\u8d70\u6cd5\u6570\u76ee"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
